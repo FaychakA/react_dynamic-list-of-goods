@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,SACE,SACF,CAEA,WACE,WACF,CAEA,UACE,UACF","file":"main.37b9e0f8.chunk.css","sourcesContent":["\n.redGood {\n  color: red;\n}\n\n.greenGood {\n  color: green;\n}\n\n.blueGood {\n  color: blue;\n}\n"]}
